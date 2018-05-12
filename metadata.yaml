@@ -1,0 +1,35 @@
+_repo: Watch-Work-WaitOr-The-Orphan-s-Victory_16367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Myers, Sarah A. (Sarah Ann)
+    aliases:
+    - Carrie, Aunt
+    - Myers, S. A. (Sarah Ann)
+    birthdate: 1800
+    deathdate: 1876
+    gutenberg_agent_id: '6655'
+    url: http://www.gutenberg.org/2009/agents/6655
+description: ''
+gutenberg_issued: '2005-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Temptation -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+title: 'Watch—Work—Wait
+
+  Or, The Orphan''s Victory'
+url: http://www.gutenberg.org/ebooks/16367
